@@ -1,3 +1,4 @@
-float a, b, c
+float a, b, c, summ
 read a, b
 sum=a-b
+c=a-b
